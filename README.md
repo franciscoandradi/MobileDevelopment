@@ -86,4 +86,5 @@ https://dummyjson.com/products/{id}
 ---
 
 ▶️ Como Executar o Projeto
-
+### 1️⃣ Clonar o repositório
+git clone <url-do-repositorio>
