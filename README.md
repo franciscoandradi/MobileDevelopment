@@ -87,4 +87,49 @@ https://dummyjson.com/products/{id}
 
 ▶️ Como Executar o Projeto
 ### 1️⃣ Clonar o repositório
-git clone <url-do-repositorio>
+git clone <https://github.com/franciscoandradi/MobileDevelopment>
+
+### 2️⃣ Instalar dependências
+npm install axios
+npm install @reduxjs/toolkit react-redux
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npm install @react-navigation/material-top-tabs
+npx expo install react-native-screens react-native-safe-area-context react-native-tab-view react-native-pager-view
+
+3️⃣ Iniciar o projeto
+npx expo start
+
+Depois:
+
+- Pressione `a` para abrir no Android
+- Pressione `i` para abrir no iOS (Mac)
+- Ou escaneie o QR Code com o Expo Go
+
+---
+
+## 📚 Conceitos Aplicados
+
+- Componentização
+- Navegação entre telas
+- Consumo de API REST
+- Gerenciamento de estado global
+- Tipagem com TypeScript
+- Estruturação de projeto React Native
+- Boas práticas de organização de código
+
+---
+
+## 🎓 Considerações Finais
+
+Este projeto permitiu aplicar conceitos fundamentais do desenvolvimento mobile, incluindo consumo de APIs externas, gerenciamento de estado e navegação entre telas.
+
+A utilização de TypeScript trouxe maior segurança e organização ao código, enquanto o Redux Toolkit facilitou o controle do estado global da aplicação.
+
+---
+
+## 👨‍💻  De: 
+
+Francisco Andrade de Souza
+RA 90171
+Curso: Análise e Desenvolvimento de Sistemas
